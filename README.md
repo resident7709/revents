@@ -1,3 +1,3 @@
-# Revents
+# revents
 
 # React + TypeScript + Vite
